@@ -2,7 +2,7 @@
 
 因服务器更新重制大整改Wiki要重写，需要新的文档，此仓库已不再更新，当作纪念吧
 
-未来的新文档只会在`[https://github.com/TATyKeFei/TATyRealms-wiki](https://github.com/TATyKeFei/TATyRealms-wiki)`上发布
+未来的新文档只会在`https://github.com/TATyKeFei/TATyRealms-wiki`上发布
 
 2025.3.29
 
